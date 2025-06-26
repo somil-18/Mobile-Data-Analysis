@@ -9,7 +9,7 @@ This is a data science project where I scraped mobile phone data from Amazon Ind
 
 ## 🔧 What This Project Does
 
-- Scrapes mobile phone data for brands like Samsung, Vivo, Realme, Redmi, Oppo, and Motorola
+- Scrapes mobile phone data for brands like Samsung, Vivo, Realme, Redmi, Oppo, and Motorola from amazon website
 - Collects information such as brand name, model name, price, ratings, reviews, and connectivity (4G or 5G)
 - Cleans the dataset by removing duplicates, fixing brand/model names, and filtering out refurbished phones
 - Visualizes price vs rating for each brand using scatter plots
