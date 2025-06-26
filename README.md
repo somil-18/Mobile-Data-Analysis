@@ -24,8 +24,8 @@ This is a data science project where I scraped mobile phone data from Amazon Ind
 | `mobile_analysis.ipynb`  | Jupyter notebook with full code and analysis    |
 | `mobile_sample.csv`      | Raw scraped mobile data from Amazon             |
 | `mobile_sample_cleaned.csv` | Cleaned dataset after preprocessing           |
-| `conclusion.txt`         | Final conclusions and insights by brand         |
-| `requirements.txt`       | Python libraries used in the project            |
+| `Conclusion.txt`         | Final conclusions and insights by brand         |
+| `Requirments.txt`       | Python libraries used in the project            |
 | `README.md`              | Project summary and instructions                |
 
 
