@@ -24,7 +24,7 @@ This is a data science project where I scraped mobile phone data from Amazon Ind
 | `mobile_analysis.ipynb`  | Jupyter notebook with full code and analysis    |
 | `mobile_sample.csv`      | Raw scraped mobile data from Amazon             |
 | `mobile_sample_cleaned.csv` | Cleaned dataset after preprocessing           |
-| `Conclusion.txt`         | Final conclusions and insights by brand         |
+| `Conclusion.md`         | Final conclusions and insights by brand         |
 | `Requirments.txt`       | Python libraries used in the project            |
 | `README.md`              | Project summary and instructions                |
 
@@ -49,7 +49,7 @@ You can install them using:-> pip install -r requirements.txt
    
 ## 📝 Conclusion
 
-👉 Full brand-wise insights available in [Conclusion.txt](Conclusion.txt)
+👉 Full brand-wise insights available in [Conclusion.md](Conclusion.md)
 
 
 
