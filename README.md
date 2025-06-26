@@ -45,7 +45,7 @@ You can install them using:-> pip install -r requirements.txt
 
 
    
-## Conclsuion:
+## 📝 Conclusion
 
 👉 Full brand-wise insights available in [Conclusion.txt](Conclusion.txt)
 
@@ -54,7 +54,7 @@ You can install them using:-> pip install -r requirements.txt
 ## 👤 Author
 
 **Somil Dogra**  
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/somil-18)
+GitHub: [https://github.com/somil-18](https://github.com/somil-18)
 
 
 
