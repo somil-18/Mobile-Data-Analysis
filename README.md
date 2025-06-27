@@ -43,7 +43,9 @@ This is a data science project where I scraped mobile phone data from Amazon Ind
 
 👉 To install all required libraries, see [requirements.txt](requirements.txt)
 
+```
 You can install them using:-> pip install -r requirements.txt
+```
 
 
    
